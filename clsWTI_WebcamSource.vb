@@ -160,9 +160,11 @@ Public Class clsWTI_WebcamSource
 
 #Region "SUB"
     Private Sub Test()
+        Dim a As Integer
 
     End Sub
 #End Region
+
 
 
 End Class
