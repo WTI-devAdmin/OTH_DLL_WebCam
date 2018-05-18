@@ -158,4 +158,9 @@ Public Class clsWTI_WebcamSource
     End Sub
 #End Region
 
+#Region "SUB"
+
+#End Region
+
+
 End Class
