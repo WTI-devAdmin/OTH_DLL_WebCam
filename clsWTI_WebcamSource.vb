@@ -159,7 +159,9 @@ Public Class clsWTI_WebcamSource
 #End Region
 
 #Region "SUB"
+    Private Sub Test()
 
+    End Sub
 #End Region
 
 
