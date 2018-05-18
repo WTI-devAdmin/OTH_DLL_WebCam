@@ -1,0 +1,30 @@
+C:\Wizzard Technologies, Inc\Wizzard Projects\Wizzard Library\WTI_Webcam\bin\x86\Debug\WTI_Webcam.dll
+C:\Wizzard Technologies, Inc\Wizzard Projects\Wizzard Library\WTI_Webcam\bin\x86\Debug\WTI_Webcam.pdb
+C:\Wizzard Technologies, Inc\Wizzard Projects\Wizzard Library\WTI_Webcam\bin\x86\Debug\WTI_Webcam.xml
+C:\Wizzard Technologies, Inc\Wizzard Projects\Wizzard Library\WTI_Webcam\obj\x86\Debug\WTI_Webcam.frmWebCamSelect.resources
+C:\Wizzard Technologies, Inc\Wizzard Projects\Wizzard Library\WTI_Webcam\obj\x86\Debug\WTI_Webcam.frmWTI_WebcamCapture.resources
+C:\Wizzard Technologies, Inc\Wizzard Projects\Wizzard Library\WTI_Webcam\obj\x86\Debug\WTI_Webcam.Resources.resources
+C:\Wizzard Technologies, Inc\Wizzard Projects\Wizzard Library\WTI_Webcam\obj\x86\Debug\WTI_Webcam.vbproj.GenerateResource.Cache
+C:\Wizzard Technologies, Inc\Wizzard Projects\Wizzard Library\WTI_Webcam\obj\x86\Debug\WTI_Webcam.dll
+C:\Wizzard Technologies, Inc\Wizzard Projects\Wizzard Library\WTI_Webcam\obj\x86\Debug\WTI_Webcam.xml
+C:\Wizzard Technologies, Inc\Wizzard Projects\Wizzard Library\WTI_Webcam\obj\x86\Debug\WTI_Webcam.pdb
+C:\Source\Wizzard Library\WTI_Webcam\bin\x86\Debug\WTI_Webcam.pdb
+C:\Source\Wizzard Library\WTI_Webcam\bin\x86\Debug\WTI_Webcam.xml
+C:\Source\Wizzard Library\WTI_Webcam\obj\x86\Debug\WTI_Webcam.frmWebCamSelect.resources
+C:\Source\Wizzard Library\WTI_Webcam\obj\x86\Debug\WTI_Webcam.frmWTI_WebcamCapture.resources
+C:\Source\Wizzard Library\WTI_Webcam\obj\x86\Debug\WTI_Webcam.Resources.resources
+C:\Source\Wizzard Library\WTI_Webcam\obj\x86\Debug\WTI_Webcam.vbproj.GenerateResource.Cache
+C:\Source\Wizzard Library\WTI_Webcam\obj\x86\Debug\WTI_Webcam.xml
+C:\Source\Wizzard Library\WTI_Webcam\obj\x86\Debug\WTI_Webcam.pdb
+C:\Source\Wizzard Library\WTI_Webcam\bin\x86\Debug\WTI_Webcam.dll
+C:\Source\Wizzard Library\WTI_Webcam\obj\x86\Debug\WTI_Webcam.dll
+C:\Source\Project_OTH\Wizzard Library\WTI_Webcam\bin\x86\Debug\WTI_Webcam.dll
+C:\Source\Project_OTH\Wizzard Library\WTI_Webcam\bin\x86\Debug\WTI_Webcam.pdb
+C:\Source\Project_OTH\Wizzard Library\WTI_Webcam\bin\x86\Debug\WTI_Webcam.xml
+C:\Source\Project_OTH\Wizzard Library\WTI_Webcam\obj\x86\Debug\WTI_Webcam.frmWebCamSelect.resources
+C:\Source\Project_OTH\Wizzard Library\WTI_Webcam\obj\x86\Debug\WTI_Webcam.frmWTI_WebcamCapture.resources
+C:\Source\Project_OTH\Wizzard Library\WTI_Webcam\obj\x86\Debug\WTI_Webcam.Resources.resources
+C:\Source\Project_OTH\Wizzard Library\WTI_Webcam\obj\x86\Debug\WTI_Webcam.vbproj.GenerateResource.Cache
+C:\Source\Project_OTH\Wizzard Library\WTI_Webcam\obj\x86\Debug\WTI_Webcam.dll
+C:\Source\Project_OTH\Wizzard Library\WTI_Webcam\obj\x86\Debug\WTI_Webcam.xml
+C:\Source\Project_OTH\Wizzard Library\WTI_Webcam\obj\x86\Debug\WTI_Webcam.pdb
